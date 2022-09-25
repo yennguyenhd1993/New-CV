@@ -1,0 +1,212 @@
+body {
+    padding: 10px;
+    margin: 10px;
+  }
+  
+ .Khung_bao {
+    max-width: 1100px;
+    height: 1200px;
+    margin: auto;
+    display: flex;
+
+  }
+  
+
+  .Khung_trái {
+    width: 330px;
+    background-color:rgb(115, 165, 200);
+    display: flex;
+    flex-direction: column
+  }
+  .Khung_trái_trên {
+    width: 330px;
+    background-color:rgb(41, 40, 94);;
+    flex: 1
+  }
+  
+  .Ảnh {
+    display: flex;
+    justify-content: center; 
+    margin: 10px;
+  }
+
+  .Ảnh> img {
+    width: 250px;
+    height: 250px;
+    border-radius: 150px;
+    object-fit: cover;
+    margin: auto;
+  }
+  .Tên {
+    color: White;
+    text-align: Center;
+  }
+
+  .Khung_trái_dưới {
+    width: 330px;
+    background-color:rgb(139, 163, 187);
+    flex: 2
+  }
+
+  .Thông_tin {
+    margin-left: 10px;
+}
+  .Ngày_sinh {
+    margin-left: 20px;
+    font-size: 20px;
+  }
+  .Địa_chỉ {
+    margin-left: 20px;
+    font-size: 20px;
+  }
+  .tel{
+    margin-left: 20px;
+    font-size: 20px;
+  }
+  .mail{
+    margin-left: 20px;
+    font-size: 20px;
+    color:rgb(3, 3, 119);
+  }
+  .Nội_dung {
+    margin-left: 20px;
+    font-size: 20px;
+  }
+  
+  .Khung_phải {
+    background-color:rgb(231, 235, 234);
+    display: flex;
+    flex-direction: column
+  }
+  .Ô_1 {
+    width: 740px;
+    height:50px;
+    background-color:rgb(41, 40, 94);
+    border: 30px solid rgb(231, 235, 234);
+    border-radius: 50px;
+    color: White;
+    text-align: Center;
+    display: flex;
+    align-items: center;  
+  }
+
+  .Ô_2 {
+    width: 700px;;
+    background-color:rgb(231, 235, 234);
+    flex: 1
+  }
+  .Tên_trường1 {
+    margin-left: 40px;
+    font-size: 22px;
+  }
+  .Tên_trường2 {
+    margin-left: 40px;
+    font-size: 22px;
+  }
+  .Khoa2 {
+    margin-left: 65px;
+    font-size: 22px;
+  }
+
+
+  .Ô_3 {
+    width: 740px;
+    height:50px;
+    background-color:rgb(41, 40, 94);
+    border: 30px solid rgb(231, 235, 234);
+    border-radius: 50px;
+    color: White;
+    text-align: Center;
+    display: flex;
+    align-items: center;  
+  }
+
+
+  .Ô_4 {
+    width: 700px;
+    background-color:rgb(231, 235, 234);
+    flex: 1
+  }
+  .Số1 {
+    margin-left: 40px;
+    font-size: 22px;
+  }
+  .Công_ty1 {
+    margin-left: 40px;
+    font-size: 22px;
+  }
+  .Chức_vụ1 {
+    margin-left: 40px;
+    font-size: 22px;
+  }
+  .Số2 {
+    margin-left: 40px;
+    font-size: 22px;
+  }
+  .Công_ty2 {
+    margin-left: 40px;
+    font-size: 22px;
+  }
+  .Chức_vụ2 {
+    margin-left: 40px;
+    font-size: 22px;
+  }
+
+  .Ô_5 {
+
+    width: 740px;
+    height:50px;
+    background-color:rgb(41, 40, 94);
+    border: 30px solid rgb(231, 235, 234);
+    border-radius: 50px;
+    color: White;
+    text-align: Center;
+    display: flex;
+    align-items: center;  
+  }
+
+  .Ô_6 {
+    width: 700px;
+    background-color:rgb(231, 235, 234);
+    flex: 1
+  }
+  .Chứng_chỉ1 {
+    margin-left: 40px;
+    font-size: 22px;
+  }
+  .Chứng_chỉ2 {
+    margin-left: 40px;
+    font-size: 22px;
+  }
+  .Chứng_chỉ3 {
+    margin-left: 40px;
+    font-size: 22px;
+  }
+
+  .Ô_7 {
+
+    width: 740px;
+    height:50px;
+    background-color:rgb(41, 40, 94);
+    border: 30px solid rgb(231, 235, 234);
+    border-radius: 50px;
+    color: White;
+    text-align: Center;
+    display: flex;
+    align-items: center;  
+  }
+
+  .Ô_8 {
+    width: 700px;
+    background-color:rgb(231, 235, 234);
+    flex: 1
+  }
+  .Vị_trí1 {
+    margin-left: 40px;
+    font-size: 22px;
+  }
+  .Vị_trí2 {
+    margin-left: 40px;
+    font-size: 22px;
+  }
+  
